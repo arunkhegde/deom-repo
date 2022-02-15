@@ -1,0 +1,6 @@
+
+ has git clone
+
+git add . : To track all
+
+git status : Files in which change has been made but not commited
